@@ -1,0 +1,14 @@
+{
+  "scope": "source.php - variable.other.php",
+
+  "completions":
+  [
+    "php",
+
+    { "trigger": "WOOCOMMERCE_CHECKOUT", "contents": "WOOCOMMERCE_CHECKOUT" },
+    { "trigger": "SHOP_IS_ON_FRONT", "contents": "SHOP_IS_ON_FRONT" },
+    { "trigger": "WOOCOMMERCE_CART", "contents": "WOOCOMMERCE_CART" },
+    { "trigger": "WOOCOMMERCE_VERSION", "contents": "WOOCOMMERCE_VERSION" },
+    { "trigger": "DONOTCACHEPAGE", "contents": "DONOTCACHEPAGE" }
+  ]
+}
