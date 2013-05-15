@@ -5,10 +5,15 @@
   [
     "php",
 
-    { "trigger": "WOOCOMMERCE_CHECKOUT", "contents": "WOOCOMMERCE_CHECKOUT" },
-    { "trigger": "SHOP_IS_ON_FRONT", "contents": "SHOP_IS_ON_FRONT" },
+    { "trigger": "PO_MAX_LINE_LEN", "contents": "PO_MAX_LINE_LEN" },
+    { "trigger": "T_ML_COMMENT", "contents": "T_ML_COMMENT" },
+    { "trigger": "T_DOC_COMMENT", "contents": "T_DOC_COMMENT" },
     { "trigger": "WOOCOMMERCE_CART", "contents": "WOOCOMMERCE_CART" },
+    { "trigger": "WOOCOMMERCE_CHECKOUT", "contents": "WOOCOMMERCE_CHECKOUT" },
+    { "trigger": "WC_MAX_LINKED_VARIATIONS", "contents": "WC_MAX_LINKED_VARIATIONS" },
+    { "trigger": "DONOTCACHEPAGE", "contents": "DONOTCACHEPAGE" },
+    { "trigger": "SHOP_IS_ON_FRONT", "contents": "SHOP_IS_ON_FRONT" },
     { "trigger": "WOOCOMMERCE_VERSION", "contents": "WOOCOMMERCE_VERSION" },
-    { "trigger": "DONOTCACHEPAGE", "contents": "DONOTCACHEPAGE" }
+    { "trigger": "WOOCOMMERCE_USE_CSS", "contents": "WOOCOMMERCE_USE_CSS" }
   ]
 }
